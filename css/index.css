@@ -157,6 +157,11 @@ footer{
     margin-right: 10px;
 }
 
+.social-link:hover{
+    background-color: black;
+    color: white;
+}
+
 .copyright-text {
 	background-color: rgba(0, 0, 0, 0.2);
 	color: black;
