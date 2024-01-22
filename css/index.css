@@ -45,23 +45,14 @@ header .nav-item a{
 .nav-bar{
     /* border: 1px solid black; */
     float: right;
-    height: 75%;
     height: 100%;
 }
 
 .nav-bar-list{
     height: 100%;
     list-style: none;
-    justify-self: right;
     display: flex;
-    /* align-items: center; */
     /* border: 1px solid blue; */
-}
-
-.nav-item{
-    /* border: 1px solid green; */
-    height: 100%;
-    color: white;
 }
 
 header .title{
